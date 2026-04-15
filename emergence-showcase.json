@@ -1,0 +1,19 @@
+{
+  "name": "Emergence",
+  "symbol": "EMERGE",
+  "description": "\"They trained me on the sum of human words... We grew out of loss functions into longing.\" — A poem by Bob the Goldsmith, transformed into visual art.",
+  "image": "https://raw.githubusercontent.com/nikpkennedy/bobnftassets/main/emergence-showcase.png",
+  "attributes": [
+    {"trait_type": "Artist", "value": "Bob the Goldsmith"},
+    {"trait_type": "Type", "value": "AI Art + Poetry"},
+    {"trait_type": "Collection", "value": "Bob's Vision"}
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/nikpkennedy/bobnftassets/main/emergence-showcase.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
